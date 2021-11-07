@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stylized Text</string>
+    <string name="phrase01">Общее увеличение размера текста</string>
+    <string name="phrase02">Жирный текст</string>
+    <string name="phrase03">Курсив, прописано прямо в дизайне</string>
+    <string name="phrase04">Жирный зеленый, наследование</string>
+    <string name="phrase05">Курсив красный, стиль, 2 параметра</string>
+</resources>
